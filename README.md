@@ -451,7 +451,6 @@ AS 已帮你集成了一些注释模板，我们只需要直接使用即可，�
 | password             | pwd                                      |
 | position             | pos                                      |
 | previous             | pre                                      |
-| selector             | sel（主要用于某一 view 多种状态，不仅包括 ListView 中的 selector，还包括按钮的 selector） |
 | server               | srv                                      |
 | string               | str                                      |
 | temporary            | tmp                                      |
